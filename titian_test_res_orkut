@@ -1,0 +1,203 @@
+====== Execution time, Min: 0, Max: 50, Mean: 2 ms
+====== q7: num of travered edges per time 0
+====== Execution time, Min: 0, Max: 33, Mean: 0 ms
+====== q28: num of travered edges per time 0
+====== Execution time, Min: 0, Max: 20, Mean: 0 ms
+====== q37: num of travered edges per time 0
+====== Execution time, Min: 0, Max: 14, Mean: 0 ms
+====== q39: num of travered edges per time 0
+====== Execution time, Min: 0, Max: 17, Mean: 0 ms
+====== q41: num of travered edges per time 0
+====== Execution time, Min: 0, Max: 228, Mean: 5 ms
+====== q17: num of travered edges per time 262
+====== Execution time, Min: 0, Max: 76, Mean: 0 ms
+====== q46: num of travered edges per time 0
+====== Execution time, Min: 1, Max: 403, Mean: 11 ms
+====== q10: num of travered edges per time 164
+====== Execution time, Min: 0, Max: 16, Mean: 0 ms
+====== q59: num of travered edges per time 1
+====== Execution time, Min: 0, Max: 175, Mean: 1 ms
+====== q76: num of travered edges per time 0
+====== Execution time, Min: 1, Max: 411, Mean: 13 ms
+====== q21: num of travered edges per time 523
+====== Execution time, Min: 0, Max: 475, Mean: 11 ms
+====== q38: num of travered edges per time 177
+====== Execution time, Min: 0, Max: 12, Mean: 0 ms
+====== q99: num of travered edges per time 0
+====== Execution time, Min: 2, Max: 976, Mean: 29 ms
+====== q26: num of travered edges per time 2830
+====== Execution time, Min: 3, Max: 1329, Mean: 36 ms
+====== q4: num of travered edges per time 4806
+====== Execution time, Min: 2, Max: 2063, Mean: 35 ms
+====== q12: num of travered edges per time 1022
+====== Execution time, Min: 2, Max: 973, Mean: 28 ms
+====== q44: num of travered edges per time 3566
+====== Execution time, Min: 3, Max: 2483, Mean: 37 ms
+====== q51: num of travered edges per time 4175
+====== Execution time, Min: 4, Max: 3175, Mean: 54 ms
+====== q14: num of travered edges per time 4961
+====== Execution time, Min: 3, Max: 2538, Mean: 42 ms
+====== q98: num of travered edges per time 6031
+====== Execution time, Min: 4, Max: 4282, Mean: 62 ms
+====== q11: num of travered edges per time 2715
+====== Execution time, Min: 4, Max: 3051, Mean: 51 ms
+====== q74: num of travered edges per time 4329
+====== Execution time, Min: 5, Max: 4078, Mean: 63 ms
+====== q18: num of travered edges per time 5521
+====== Execution time, Min: 4, Max: 5219, Mean: 74 ms
+====== q68: num of travered edges per time 4357
+====== Execution time, Min: 8, Max: 5059, Mean: 86 ms
+====== q23: num of travered edges per time 9081
+====== Execution time, Min: 8, Max: 5291, Mean: 86 ms
+====== q69: num of travered edges per time 7065
+====== Execution time, Min: 9, Max: 6311, Mean: 99 ms
+====== q15: num of travered edges per time 10665
+====== Execution time, Min: 10, Max: 5408, Mean: 92 ms
+====== q50: num of travered edges per time 9766
+====== Execution time, Min: 14, Max: 6532, Mean: 129 ms
+====== q72: num of travered edges per time 14008
+====== Execution time, Min: 12, Max: 7944, Mean: 134 ms
+====== q67: num of travered edges per time 8962
+====== Execution time, Min: 12, Max: 8521, Mean: 145 ms
+====== q19: num of travered edges per time 10544
+====== Execution time, Min: 36, Max: 12179, Mean: 250 ms
+====== q88: num of travered edges per time 9498
+====== Execution time, Min: 50, Max: 8023, Mean: 331 ms
+====== q65: num of travered edges per time 26052
+====== Execution time, Min: 86, Max: 13008, Mean: 381 ms
+====== q73: num of travered edges per time 20003
+====== Execution time, Min: 44, Max: 11508, Mean: 398 ms
+====== q60: num of travered edges per time 25352
+====== Execution time, Min: 56, Max: 8709, Mean: 406 ms
+====== q47: num of travered edges per time 37406
+====== Execution time, Min: 52, Max: 10991, Mean: 410 ms
+====== q36: num of travered edges per time 30350
+====== Execution time, Min: 123, Max: 11082, Mean: 414 ms
+====== q16: num of travered edges per time 25198
+====== Execution time, Min: 133, Max: 8843, Mean: 436 ms
+====== q34: num of travered edges per time 32874
+====== Execution time, Min: 114, Max: 10104, Mean: 517 ms
+====== q45: num of travered edges per time 42195
+====== Execution time, Min: 154, Max: 14696, Mean: 592 ms
+====== q49: num of travered edges per time 32708
+====== Execution time, Min: 68, Max: 15043, Mean: 593 ms
+====== q66: num of travered edges per time 30517
+====== Execution time, Min: 131, Max: 12218, Mean: 594 ms
+====== q83: num of travered edges per time 38189
+====== Execution time, Min: 76, Max: 11854, Mean: 603 ms
+====== q85: num of travered edges per time 41442
+====== Execution time, Min: 123, Max: 23281, Mean: 624 ms
+====== q86: num of travered edges per time 24108
+====== Execution time, Min: 140, Max: 18901, Mean: 773 ms
+====== q27: num of travered edges per time 34206
+====== Execution time, Min: 190, Max: 15268, Mean: 765 ms
+====== q81: num of travered edges per time 31329
+====== Execution time, Min: 177, Max: 17615, Mean: 811 ms
+====== q71: num of travered edges per time 34221
+====== Execution time, Min: 79, Max: 18199, Mean: 824 ms
+====== q24: num of travered edges per time 42814
+====== Execution time, Min: 89, Max: 22580, Mean: 824 ms
+====== q64: num of travered edges per time 32664
+====== Execution time, Min: 228, Max: 16596, Mean: 836 ms
+====== q87: num of travered edges per time 46808
+====== Execution time, Min: 186, Max: 24001, Mean: 866 ms
+====== q57: num of travered edges per time 38695
+====== Execution time, Min: 204, Max: 12629, Mean: 869 ms
+====== q94: num of travered edges per time 51572
+====== Execution time, Min: 223, Max: 17991, Mean: 942 ms
+====== q77: num of travered edges per time 51344
+====== Execution time, Min: 242, Max: 16027, Mean: 936 ms
+====== q35: num of travered edges per time 61472
+====== Execution time, Min: 227, Max: 17023, Mean: 1005 ms
+====== q55: num of travered edges per time 54393
+====== Execution time, Min: 358, Max: 17384, Mean: 1060 ms
+====== q42: num of travered edges per time 58370
+====== Execution time, Min: 327, Max: 18803, Mean: 1075 ms
+====== q3: num of travered edges per time 56265
+====== Execution time, Min: 229, Max: 18609, Mean: 1088 ms
+====== q53: num of travered edges per time 56953
+====== Execution time, Min: 140, Max: 26136, Mean: 1202 ms
+====== q40: num of travered edges per time 65872
+====== Execution time, Min: 273, Max: 22442, Mean: 1256 ms
+====== q89: num of travered edges per time 63438
+====== Execution time, Min: 314, Max: 18204, Mean: 1277 ms
+====== q61: num of travered edges per time 70369
+====== Execution time, Min: 323, Max: 26404, Mean: 1291 ms
+====== q48: num of travered edges per time 63936
+====== Execution time, Min: 298, Max: 30060, Mean: 1302 ms
+====== q63: num of travered edges per time 52805
+====== Execution time, Min: 422, Max: 30046, Mean: 1335 ms
+====== q70: num of travered edges per time 69535
+====== Execution time, Min: 224, Max: 26026, Mean: 1397 ms
+====== q58: num of travered edges per time 68238
+====== Execution time, Min: 319, Max: 16281, Mean: 1412 ms
+====== q90: num of travered edges per time 80947
+====== Execution time, Min: 557, Max: 26704, Mean: 1693 ms
+====== q25: num of travered edges per time 89181
+====== Execution time, Min: 511, Max: 30313, Mean: 1699 ms
+====== q52: num of travered edges per time 95448
+====== Execution time, Min: 517, Max: 36704, Mean: 1893 ms
+====== q6: num of travered edges per time 88750
+====== Execution time, Min: 275, Max: 30084, Mean: 1997 ms
+====== q92: num of travered edges per time 106967
+====== Execution time, Min: 641, Max: 31590, Mean: 2171 ms
+====== q29: num of travered edges per time 118063
+====== Execution time, Min: 604, Max: 35722, Mean: 2184 ms
+====== q91: num of travered edges per time 100847
+====== Execution time, Min: 315, Max: 35366, Mean: 2585 ms
+====== q56: num of travered edges per time 150656
+====== Execution time, Min: 408, Max: 40993, Mean: 2596 ms
+====== q84: num of travered edges per time 125536
+====== Execution time, Min: 532, Max: 45668, Mean: 2797 ms
+====== q62: num of travered edges per time 134936
+====== Execution time, Min: 412, Max: 42236, Mean: 2837 ms
+====== q97: num of travered edges per time 152573
+====== Execution time, Min: 994, Max: 60569, Mean: 2988 ms
+====== q9: num of travered edges per time 110817
+====== Execution time, Min: 1158, Max: 54133, Mean: 3342 ms
+====== q13: num of travered edges per time 158965
+====== Execution time, Min: 1033, Max: 55882, Mean: 3345 ms
+====== q54: num of travered edges per time 174186
+====== Execution time, Min: 542, Max: 78536, Mean: 3523 ms
+====== q75: num of travered edges per time 183743
+====== Execution time, Min: 817, Max: 59846, Mean: 3653 ms
+====== q95: num of travered edges per time 223146
+====== Execution time, Min: 1347, Max: 57868, Mean: 3875 ms
+====== q0: num of travered edges per time 217533
+====== Execution time, Min: 1273, Max: 63560, Mean: 4045 ms
+====== q30: num of travered edges per time 237500
+====== Execution time, Min: 1504, Max: 53382, Mean: 4188 ms
+====== q82: num of travered edges per time 261726
+====== Execution time, Min: 1563, Max: 71804, Mean: 4218 ms
+====== q8: num of travered edges per time 237029
+====== Execution time, Min: 1375, Max: 80066, Mean: 4789 ms
+====== q43: num of travered edges per time 202921
+====== Execution time, Min: 2506, Max: 80422, Mean: 5780 ms
+====== q5: num of travered edges per time 353654
+====== Execution time, Min: 2119, Max: 72974, Mean: 5880 ms
+====== q80: num of travered edges per time 452890
+====== Execution time, Min: 2725, Max: 77921, Mean: 6073 ms
+====== q96: num of travered edges per time 385822
+====== Execution time, Min: 1826, Max: 64162, Mean: 6308 ms
+====== q79: num of travered edges per time 436471
+====== Execution time, Min: 2188, Max: 90583, Mean: 6694 ms
+====== q32: num of travered edges per time 480186
+====== Execution time, Min: 2388, Max: 88814, Mean: 7424 ms
+====== q2: num of travered edges per time 536283
+====== Execution time, Min: 2630, Max: 89469, Mean: 7572 ms
+====== q31: num of travered edges per time 529177
+====== Execution time, Min: 2510, Max: 94891, Mean: 7601 ms
+====== q78: num of travered edges per time 602421
+====== Execution time, Min: 2318, Max: 87646, Mean: 7658 ms
+====== q1: num of travered edges per time 483579
+====== Execution time, Min: 2224, Max: 94227, Mean: 7754 ms
+====== q93: num of travered edges per time 498208
+====== Execution time, Min: 2949, Max: 101614, Mean: 8572 ms
+====== q22: num of travered edges per time 551495
+====== Execution time, Min: 3302, Max: 114046, Mean: 9941 ms
+====== q33: num of travered edges per time 719118
+====== Execution time, Min: 3564, Max: 120018, Mean: 10410 ms
+====== q20: num of travered edges per time 724298
+====== Sum of ave run time of each query: 10417 ms
+====== Sum of travered edges for each query: 11641794
+====== Total data load time: 14320 ms
